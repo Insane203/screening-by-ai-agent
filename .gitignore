@@ -1,0 +1,17 @@
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Environment secrets
+.env
+.streamlit/secrets.toml
+
+# Local database and temporary files
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Editor files
+.vscode/
