@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Agent AI Recruitment System
 
 A Python-based recruitment application with two agents: a rule-based Resume Screening Agent and an Interview Scheduling Agent.
@@ -62,3 +63,6 @@ multi_agent_recruitment/
 - Add authentication and role-based access.
 - Use persistent database hosting.
 - Add automated email notifications and interview reminders.
+=======
+# screening-by-ai-agent
+>>>>>>> 3bc11b4e5740fd87ffa96df1ad3689180331d7a6
